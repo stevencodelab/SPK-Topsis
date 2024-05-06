@@ -31,3 +31,9 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 2. `Read` data pada menu `Perankingan`  
 3. `Read` data pada menu `Cari Kriteria` untuk mencari Kamera dengan kriteria yang ada.
 4. Logout
+
+
+# Attachment
+
+1. Login Page
+   ![Screenshot 2024-05-06 131151](https://github.com/stevenmorison/SPK-Topsis/assets/46344837/7596fd36-a1e0-4d33-be65-bcc83bc35338)

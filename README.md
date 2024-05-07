@@ -1,9 +1,9 @@
-# SPK-Topsis
+# SPK-Topsis (In Progress)
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan yang telah ditentukan.
 
 # System-Requirements
 1. XAMPP Versi 5.6.37
-2. Apache/2.4.34
+2. Apache/2.4.34 
 3. PHPMyadmin 4.8.2
    
 Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk menjalankan nya harus menggunakan `xampp v5.6` karena akan terjadi error apabila menggunakan versi di atas 7. 

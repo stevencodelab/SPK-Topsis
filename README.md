@@ -2,12 +2,12 @@
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan yang telah ditentukan.
 
 # System-Requirements
-1. XAMPP Versi 5.6.37
+1. XAMPP Versi 5.6.40
 2. Apache/2.4.34 
 3. PHPMyadmin 4.8.2
    
-Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk menjalankan nya harus menggunakan `xampp v5.6` karena akan terjadi error apabila menggunakan versi di atas 7. 
-`xampp v5.6` bisa di download melalui link berikut ini : (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/xampp-windows-x64-5.6.40-1-VC11-installer.exe/download)
+Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk menjalankan nya harus menggunakan xampp versi di bawah 7 dan saya menggunakan xampp versi `xampp v5.6.40`. 
+`xampp v5.6.40` bisa di download melalui link berikut ini : (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/xampp-windows-x64-5.6.40-1-VC11-installer.exe/download)
 
 # How To Use (Cara Menjalankan) :
 1. Download project ini dengan cara clone git (`git clone https://github.com/stevenmorison/SPKTopsis.git`).
@@ -41,4 +41,9 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 # Attachment
 
 1. Login Page
-   ![Screenshot 2024-05-06 131151](https://github.com/stevenmorison/SPK-Topsis/assets/46344837/7596fd36-a1e0-4d33-be65-bcc83bc35338)
+![image](https://github.com/stevenmorison/SPK-Topsis/assets/46344837/cd2a5c4a-424b-4673-b214-53e4f59b7464)
+
+2. Dashboard Page (In Progress)
+3. Kriteria & Bobot Page (In Progress)
+4. Alternatif Page (In Progress)
+5. Perhitungan TOPSIS (In Progress)

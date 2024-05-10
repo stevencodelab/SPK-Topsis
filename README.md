@@ -1,4 +1,4 @@
-# SPK-Topsis (In Progress)
+# SPK-Topsis (In Progress) Native not Framework
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan yang telah ditentukan.
 
 # System-Requirements
@@ -41,9 +41,20 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 # Attachment
 
 1. Login Page
-![image](https://github.com/stevenmorison/SPK-Topsis/assets/46344837/cd2a5c4a-424b-4673-b214-53e4f59b7464)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/2360cc4a-62e9-46af-b06c-f4eb0fe350e6)
 
-2. Dashboard Page (In Progress)
-3. Kriteria & Bobot Page (In Progress)
-4. Alternatif Page (In Progress)
-5. Perhitungan TOPSIS (In Progress)
+2. Dashboard Page (Administrator & User)
+   -> Administrator Login
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/931da65d-f738-43cd-8ebb-2409623bb041)
+   -> User Login
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/b24ce142-37a0-44df-abba-8f6bdbf20b81)
+
+4. Kriteria & Keterangan Masing-Masing Kriteria (Administrator Only !!!)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3ae7290b-39d6-4155-8ac4-3a81414337ba)
+
+6. Alternatif Page / Data Kamera (Administrator Only !!!)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/f3755464-c1bf-45b3-aa22-5a5e0e8118c6)
+
+7. Perhitungan TOPSIS (In Progress)
+
+8. Data User (Administrator Only !!!)

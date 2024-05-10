@@ -47,7 +47,7 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
    -> Administrator Login
 ![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/931da65d-f738-43cd-8ebb-2409623bb041)
    -> User Login
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/25c7798e-701b-439c-95f4-67995c30a535)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/b24ce142-37a0-44df-abba-8f6bdbf20b81)
 
 4. Kriteria & Keterangan Masing-Masing Kriteria (Administrator Only !!!)
 ![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3ae7290b-39d6-4155-8ac4-3a81414337ba)

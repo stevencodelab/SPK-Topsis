@@ -44,9 +44,9 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 ![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/2360cc4a-62e9-46af-b06c-f4eb0fe350e6)
 
 2. Dashboard Page (Administrator & User)
-   -> Administrator Login
+   <> Administrator Login
 ![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/931da65d-f738-43cd-8ebb-2409623bb041)
-   -> User Login
+   <> User Login
 ![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/b24ce142-37a0-44df-abba-8f6bdbf20b81)
 
 4. Kriteria & Keterangan Masing-Masing Kriteria (Administrator Only !!!)

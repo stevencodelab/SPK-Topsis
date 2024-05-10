@@ -41,7 +41,8 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 # Attachment
 
 1. Login Page
-![image](https://github.com/stevenmorison/SPK-Topsis/assets/46344837/cd2a5c4a-424b-4673-b214-53e4f59b7464)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/2360cc4a-62e9-46af-b06c-f4eb0fe350e6)
+
 
 2. Dashboard Page (In Progress)
 3. Kriteria & Bobot Page (In Progress)

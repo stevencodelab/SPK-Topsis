@@ -19,8 +19,8 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 7. Akses website melalui `localhost/spk_topsis/index.php`.
 
 # Login 2 Level (`Admin` & `User`)
-1. Administrator (username `admin` password `admin`)
-2. Pencari Kamera (username `user` password `user`)
+1. Administrator       (username `admin` password `admin`)
+2. Pencari Kamera/User (username `user` password `user`)
 
 # Feature (Fitur)
 -> Administrator (Admin)

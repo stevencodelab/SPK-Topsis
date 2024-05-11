@@ -41,19 +41,19 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 # Attachment
 
 1. Login Page
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/2360cc4a-62e9-46af-b06c-f4eb0fe350e6)
+![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3110cc35-6efc-42ba-b172-fdcd204dd8c4)
 
 2. Dashboard Page (Administrator & User)
    <> Administrator Login
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/931da65d-f738-43cd-8ebb-2409623bb041)
+
    <> User Login
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/b24ce142-37a0-44df-abba-8f6bdbf20b81)
+
 
 4. Kriteria & Keterangan Masing-Masing Kriteria (Administrator Only !!!)
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3ae7290b-39d6-4155-8ac4-3a81414337ba)
+
 
 6. Alternatif Page / Data Kamera (Administrator Only !!!)
-![image](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/f3755464-c1bf-45b3-aa22-5a5e0e8118c6)
+
 
 7. Perhitungan TOPSIS (In Progress)
 

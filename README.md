@@ -1,3 +1,29 @@
+<div id="badges" align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   </a>
+   <a href="#">
+       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   </a>
+   <a href="#">
+       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+   </a>
+</div>  
+<div id="badges" align="center">
+   <a href="#">
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+   </a>
+</div>
+
 # SPK-Topsis (In Progress) Native not Framework
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan yang telah ditentukan.
 
@@ -10,13 +36,13 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 `xampp v5.6.40` bisa di download melalui link berikut ini : (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/xampp-windows-x64-5.6.40-1-VC11-installer.exe/download)
 
 # How To Use (Cara Menjalankan) :
-1. Download project ini dengan cara clone git (`git clone https://github.com/stevenmorison/SPKTopsis.git`).
+1. Download project ini dengan cara `git clone` (`git clone https://github.com/stevencodelab/SPKTopsis.git`).
 2. Masuk pada folder `xampp` pindahkan ke dalam folder `htdocs`.  
 3. Buka phpmyadmin (`localhost/phpmyadmin`).
-4. Buat database baru dengan nama yang sama (`spk_topsis`).
+4. Buat database baru dengan nama yang sama (`spk_topsis_kamera`).
 5. Jika ingin mengubah nama database sesuai dengan keinginan anda, jangan lupa mengubah nama database pada `database-config.php`.
-6. Import database (`spk_topsis`) dari folder database, tunggu hingga proses import `database` selesai.
-7. Akses website melalui `localhost/spk_topsis/index.php`.
+6. Import database (`spk_topsis_kamera`) dari folder database, tunggu hingga proses import `database` selesai.
+7. Akses website melalui `localhost/SpkKameraTopsis/index.php`.
 
 # Login 2 Level (`Admin` & `User`)
 1. Administrator       (username `admin` password `admin`)
@@ -26,10 +52,12 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 -> Administrator (Admin)
 1. Fitur Login Ke Dashboard.
 2. `Create`, `Read`, `Update` `Delete` Data Kriteria (`Nama Kriteria`, `Atribut`, `Bobot`).
-3. `Create`, `Read`, `Update` `Delete` Keterangan untuk masing-masing Kriteria.
-4. Mengakses Hasil Perhitungan TOPSIS
-5. `Read`, `Update` `Delete` Data User.
-6. Logout
+3. `Create`, `Read`, `Update` `Delete` Data Kamera
+4. `Create`, `Read`, `Update` `Delete` Data Alternatif
+5. `Create`, `Read`, `Update` `Delete` Data Analisis
+6. `Read` Hasil Perhitungan TOPSIS
+7. `Create` `Read`, `Update` `Delete` Data User.
+8. Logout
    
 -> User
 1. Fitur Login Ke Dashboard.

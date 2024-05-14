@@ -1,8 +1,8 @@
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-   <a href="#">
+   <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
    </a>
    <a href="#">
@@ -11,15 +11,15 @@
    <a href="#">
        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
    </a>
-   <a href="#">
+   <a href="https://www.php.net/">
        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
    </a>
 </div>  
 <div id="badges" align="center">
-   <a href="#">
+   <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    </a>
-   <a href="#">
+   <a href="https://releases.jquery.com/">
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
    </a>
 </div>

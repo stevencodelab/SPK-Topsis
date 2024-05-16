@@ -26,6 +26,18 @@
 
 # SPK-Topsis (In Progress) Native not Framework
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan (Kriteria) yang telah ditentukan.
+</br>
+<h3 align="center">Hi there 👋, jika ingin Full Source Code + Database </h3>
+<br>
+<h3 align="center">Hubungi saya 👇</h3>
+<div id="badges" align="center">
+  <a href="https://wa.link/9e41gw">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/stevenmrsn/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</div>
 
 # System-Requirements
 1. XAMPP Versi 5.6.40
@@ -89,16 +101,6 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 
 # dan lain nya
 
-<h3 align="center">Hi there 👋, jika ingin Full Source Code + Database </h3>
-<br>
-<h3 align="center">Hubungi saya 👇</h3>
-<div id="badges" align="center">
-  <a href="https://wa.link/9e41gw">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="stevenmorizon123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+
 
 <br>

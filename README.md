@@ -88,3 +88,17 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk m
 ![tambah-alternatif](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/7831d112-b457-495e-96c4-68ce58e6d450)
 
 # dan lain nya
+
+<h3 align="center">Hi there 👋, jika ingin Full Source Code + Database </h3>
+<br>
+<h3 align="center">Hubungi saya 👇</h3>
+<div id="badges" align="center">
+  <a href="https://wa.link/9e41gw">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="stevenmorizon123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br>

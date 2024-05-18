@@ -44,7 +44,7 @@ Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Tops
 2. Apache/2.4.34 
 3. PHPMyadmin 4.8.2
    
-Karena project ini di tuliskan menggunakan Php versi di bawah 7 sehingga untuk menjalankan nya harus menggunakan xampp dengan versi rendah dan saya menggunakan xampp versi `xampp v5.6.40`. 
+Karena project ini di tuliskan menggunakan Php versi di bawah 7 (PHP Version 5.6.40) sehingga untuk menjalankan nya harus menggunakan xampp dengan versi rendah dan saya menggunakan xampp versi `xampp v5.6.40`. 
 `xampp v5.6.40` bisa di download melalui link berikut ini : (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/xampp-windows-x64-5.6.40-1-VC11-installer.exe/download)
 
 # How To Use (Cara Menjalankan) :

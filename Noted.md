@@ -5,7 +5,7 @@
 4. Tambah / Ubah Data Analisa 
 5. Lihat Hasil Perhitungan TOPSIS 
 6. Tambah /Ubah User
-7. Tambah Kamera 
+7. Tambah Kamera/Ubah Kamera
 8. Log Out
 
 ## Fitur User Yang Sudah Jalan

@@ -8,9 +8,6 @@
 7. Tambah Kamera 
 8. Log Out
 
-## Fitur Yang Belum Jalan 
-1. Ubah Data Kamera
-
 ## Fitur User Yang Sudah Jalan
 1. Lihat Perankingan Kamera & Detail
 2. Mencari Kamera Berdasarkan Kriteria (Bobot)

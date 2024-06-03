@@ -25,7 +25,7 @@
 </div>
 
 # SPK-Topsis (In Progress) Native not Framework
-Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera yang sesuai dengan kriteria dan persyaratan (Kriteria) yang telah ditentukan.
+Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera Digital yang sesuai dengan kriteria dan persyaratan (Kriteria) yang telah ditentukan.
 </br>
 <h3 align="center">Hi there 👋, jika ingin Full Source Code + Database </h3>
 <br>
@@ -67,9 +67,16 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 (PHP Version 5.6
 3. `Create`, `Read`, `Update` `Delete` Data Kamera
 4. `Create`, `Read`, `Update` `Delete` Data Alternatif
 5. `Create`, `Read`, `Update` `Delete` Data Analisis
-6. `Read` Hasil Perhitungan TOPSIS
-7. `Create` `Read`, `Update` `Delete` Data User.
-8. Logout
+6. `Read` Hasil Perhitungan TOPSIS :
+   a. Matriks Ternormalisasi
+   b. Matriks Ternormalisasi Terbobot
+   c. Pembagi
+   d. Solusi Ideal Positif Negatif (A+ A-)
+   e. Jarak Euclidien (D+ D-) Untuk Masing-Masing Alternatif
+   f. Preferensi (V)
+   g. Ranking
+8. `Create` `Read`, `Update` `Delete` Data User.
+9. Logout
    
 -> User
 1. Fitur Login Ke Dashboard.
@@ -81,26 +88,36 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 (PHP Version 5.6
 # Attachment
 
 1. Login Page
-![login-page](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/2e47b7ff-2a24-4763-b90f-8f5fe9f5798d)
+![login](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/ac5976a9-7173-4bb4-b649-401c3e5d7d53)
 
+2. Register Page
+![register](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/e91e2ef9-2802-4270-b1f3-cf9e792b57c3)
 
-2. Dashboard Page (Administrator & User)
+3. Dashboard Page (Administrator & User)
    <> Administrator Login
-![dashboard-admin](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/64e7842e-b8d7-4e8f-b6d5-b562c76a3991)
+![dash-admin](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/db954532-a7e0-4565-a261-1c0a9e0a27d6)
    <> User Login
-![dashboard-user](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/20bb1d8a-af08-4ffb-bb1d-60af498fbd3a)
-   
-4. Detail Camera (Administrator Only !!!)
-![detail-camera](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/65777865-dd19-4c97-952a-7f274ff5304e)
-![tambah-detail](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/fb3a4482-20f8-4844-a586-b0fceb159d61)
+![user-dash](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3b78fee3-04c7-492b-9258-8d5fb2df9d45)
 
+4. Data Camera (Administrator Only !!!)
+![datakamera](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/a53b338e-eba2-4c7e-8f38-edb973a9abe3)
 
-6. Alternatif Page / Data Kamera (Administrator Only !!!)
-![data-alternatif](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3b5ef6fd-d7bc-4e7c-b263-fd6ca9b3deec)
-![tambah-alternatif](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/7831d112-b457-495e-96c4-68ce58e6d450)
+5. Data Alternatif (Administrator Only !!!)
+![datalternatif](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/4b69e6af-469e-4353-9755-9f02a1e3d3bc)
 
-# dan lain nya
+6. Data Kriteria & Bobot (Administrator Only !!!)
+![kriteria](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/6aebca26-bc92-43a7-9276-6e6dcbffb81e)
 
+7. Hasil Perhitungan TOPSIS (Administrator Only !!!)
+![hasiltopsis](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/5ea33a38-a62b-49ab-8c57-92239d120a7c)
 
+8. Data User (Administrator Only !!!)
+![datauser](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/3ac83df5-e426-488f-968c-0a28b93ca497)
+
+9. Ranking Kamera (User Login)
+![ranking](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/246976fc-acaa-49bc-802f-d4155600604c)
+
+10.Pencarian Berdasarkan Kriteria (User Login)
+![pencarian](https://github.com/stevencodelab/SPK-Topsis/assets/46344837/8a487b4e-6f2e-405b-b027-3f0a0578f705)
 
 <br>

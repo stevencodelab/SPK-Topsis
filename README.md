@@ -31,7 +31,7 @@ Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Tops
 <br>
 <h3 align="center">Hubungi saya 👇</h3>
 <div id="badges" align="center">
-  <a href="https://wa.link/9e41gw">
+  <a href="https://wa.link/gex9vp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/stevenmrsn/">

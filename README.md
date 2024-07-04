@@ -63,28 +63,28 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 (PHP Version 5.6
 # Feature (Fitur)
 -> Administrator (Admin)
 1. Fitur Login Ke Dashboard.
-2. `Create`, `Read`, `Update` `Delete` Data Kriteria (`Nama Kriteria`, `Atribut`, `Bobot`).
-3. `Create`, `Read`, `Update` `Delete` Data Kamera
-4. `Create`, `Read`, `Update` `Delete` Data Alternatif
-5. `Create`, `Read`, `Update` `Delete` Data Analisis
-6. `Read` Hasil Perhitungan TOPSIS :
-   a. Matriks Ternormalisasi
-   b. Matriks Ternormalisasi Terbobot
-   c. Pembagi
-   d. Solusi Ideal Positif Negatif (A+ A-)
-   e. Jarak Euclidien (D+ D-) Untuk Masing-Masing Alternatif
-   f. Preferensi (V)
-   g. Ranking
-8. `Create` `Read`, `Update` `Delete` Data User.
-9. Logout
+2. `Create`, `Read`, `Update` `Delete` Data Kriteria (`Nama Kriteria`, `Atribut`, `Bobot`). ✅
+3. `Create`, `Read`, `Update` `Delete` Data Kamera ✅
+4. `Create`, `Read`, `Update` `Delete` Data Alternatif ✅
+5. `Create`, `Read`, `Update` `Delete` Data Analisis ✅
+6. `Read` Hasil Perhitungan TOPSIS : 
+   a. Matriks Ternormalisasi ✅
+   b. Matriks Ternormalisasi Terbobot ✅
+   c. Pembagi ✅
+   d. Solusi Ideal Positif Negatif (A+ A-) ✅
+   e. Jarak Euclidien (D+ D-) Untuk Masing-Masing Alternatif ✅
+   f. Preferensi (V) ✅ 
+   g. Ranking ✅
+8. `Create` `Read`, `Update` `Delete` Data User. ✅
+9. Logout ✅
    
 -> User
 1. Fitur Login Ke Dashboard.
-2. `Read` data pada menu `Perankingan`  
-3. `Read` data pada menu `Cari Kriteria` untuk mencari Kamera dengan kriteria yang ada.
-4. Logout
+2. `Read` data pada menu `Perankingan`  ✅
+3. `Read` data pada menu `Cari Kriteria` untuk mencari Kamera dengan kriteria yang ada. ✅
+4. Logout ✅
 
--> Perhitungan Model Sebagai Komparasi Antara Perhitungan Manual & Perhitungan Sistem
+-> Perhitungan Model Sebagai Komparasi Antara Perhitungan Manual & Perhitungan Sistem ✅
 
 # Attachment
 

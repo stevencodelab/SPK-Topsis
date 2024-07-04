@@ -84,6 +84,7 @@ Karena project ini di tuliskan menggunakan Php versi di bawah 7 (PHP Version 5.6
 3. `Read` data pada menu `Cari Kriteria` untuk mencari Kamera dengan kriteria yang ada.
 4. Logout
 
+-> Perhitungan Model Sebagai Komparasi Antara Perhitungan Manual & Perhitungan Sistem
 
 # Attachment
 

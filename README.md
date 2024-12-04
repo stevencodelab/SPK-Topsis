@@ -24,7 +24,7 @@
    </a>
 </div>
 
-# SPK-Topsis (In Progress) Native not Framework
+# SPK-Topsis Native not Framework
 Sistem Pendukung Keputusan (SPK) Pemilihan Kamera dengan menggunakan metode Topsis (Technique For Others Reference by Similarity to Ideal Solution) agar menemukan Kamera Digital yang sesuai dengan kriteria dan persyaratan (Kriteria) yang telah ditentukan.
 </br>
 <h3 align="center">Hi there 👋, jika ingin Full Source Code + Database, silahkan klik link berikut ini untuk menghubuni saya</h3>
